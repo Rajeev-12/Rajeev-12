@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Rajeev-12/Rajeev-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rajeev-12/Rajeev-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 
 ## 🌐 Socials:
