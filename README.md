@@ -1,7 +1,7 @@
 ## Hi there 👋
+I am Rajeev, currently studying at Methodist college of engineering and technology, Abids
 
-<!--
-**Rajeev-12/Rajeev-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+
 
 
 ## 🌐 Socials:
